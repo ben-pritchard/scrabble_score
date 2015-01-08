@@ -1,0 +1,30 @@
+DESCRIPTION
+
+This program takes a word entered into a form and assigns a value to each letter.
+The values are then totaled, and displayed to the user.
+
+It is not a particularly friendly program.
+
+
+SETUP INSTRUCTIONS
+
+First, make sure Sinatra is on stage with your app.rb. Then open a web browser and go to:
+
+http://localhost:4567/
+
+There you will be prompted, somewhat challengingly, to enter your scrabble word
+
+
+COPYRIGHT INFORMATION
+
+GPL v2
+
+
+LICENSE INFORMATION
+
+GPL v2
+
+
+AUTHORS
+
+Ben Pritchard & Karvari Ellingson
